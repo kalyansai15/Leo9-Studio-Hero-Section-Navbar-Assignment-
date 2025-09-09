@@ -180,27 +180,27 @@ export default function HomePage() {
     {
       avatar: { src: "https://randomuser.me/api/portraits/lego/4.jpg" },
       message:
-        "Was suspicious of Daddy. Now my boss respects me, my ex is jealous, and strangers nod at me. Thanks, Daddy",
+        "The hero and navbar feel polished and fast. Smooth scroll and centered section jumps make navigation effortless.",
     },
     {
       avatar: { src: "https://randomuser.me/api/portraits/lego/6.jpg" },
       message:
-        "I joined Daddy thinking it was a parenting advice site. It wasn’t. But somehow, my life improved—more confidence, better decisions, and free high-fives from the universe. Was it magic? Destiny? Daddy's Magic? Vim? Either way, I’m staying",
+        "Love the micro‑interactions. Framer Motion adds just enough motion without getting in the way.",
     },
     {
       avatar: { src: "https://randomuser.me/api/portraits/men/34.jpg" },
       message:
-        "My clients think I’m a design god. Joke’s on them—I just click Cmd + C Thanks, Daddy",
+        "Responsive across devices. The layout scales neatly from mobile to desktop with consistent spacing.",
     },
     {
       avatar: { src: "https://randomuser.me/api/portraits/lego/2.jpg" },
       message:
-        "Before Daddy, I was just a regular person. Now? My skin is clearer, my coffee tastes better, and I parallel park like a pro. People ask, ‘What’s your secret?’ I just smile and whisper… Daddy",
+        "The dark theme and card design for Services and Projects look professional and accessible.",
     },
     {
       avatar: { src: "https://randomuser.me/api/portraits/lego/1.jpg" },
       message:
-        "At first, I laughed at the name. ‘Daddy? No way.’ But then, weirdly, life got better—better deals, better luck, even my bad hair days disappeared. I can’t explain it, but I trust Daddy now. And so should you.",
+        "Codebase is clean: semantic sections, utility classes, and clear animation variants. Easy to maintain.",
     },
   ];
 
