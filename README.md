@@ -3,9 +3,7 @@
 This repository contains my implementation for the Leo9 Studio frontend assignment. It recreates the hero section and navigation bar inspired by `leo9studio.com`, with responsive design, smooth interactions, and tasteful animations. I also added two below-the-fold sections for bonus points.
 
 ### Submission
-- Live URL: <your-hosted-link-here>
-- Source Repo: <this-repo-link>
-- Deadline: 09 Sep 2025, 6:00 PM IST
+- Live URL: https://leo9clone.netlify.app/
 
 ### Stack
 - React + Vite
@@ -55,8 +53,3 @@ npm run preview
   3. Framework preset: Vite; Build Command: `npm run build`; Output: `dist`
 - Netlify / GitHub Pages work similarly; just deploy the `dist` folder build.
 
-### Screenshots / Demo (optional)
-Add screenshots or a short clip here if desired.
-
-### License
-MIT — for the code in this repository. Brand assets remain property of their respective owners.
