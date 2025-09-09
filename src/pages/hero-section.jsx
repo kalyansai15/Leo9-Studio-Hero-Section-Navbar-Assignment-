@@ -1,43 +1,22 @@
 import React from "react";
 import { motion } from "framer-motion";
+// Import brand assets so bundler resolves them in production
+import fab2 from "../assets/fab-2.svg";
+import pixel from "../assets/pixel.svg";
+import tata from "../assets/tata-logo.svg";
+import bmw from "../assets/bmw.svg";
+import sony from "../assets/sony-logo-1.svg";
+import pg from "../assets/p&g.svg";
+import zwsite from "../assets/zwsite.svg";
 
 const brands = [
-  {
-    alt: "FAB",
-    src: "src/assets/fab-2.svg",
-    style: { height: 38 },
-  },
-  {
-    alt: "KPIT",
-    src: "src/assets/pixel.svg",
-    style: { height: 38 },
-  },
-  {
-    alt: "TATA",
-    src: "src/assets/tata-logo.svg",
-    style: { height: 38 },
-  },
-  {
-    alt: "BMW",
-    src: "src/assets/bmw.svg",
-    style: { height: 40 },
-  },
-  {
-    alt: "SONY",
-    src: "src/assets/sony-logo-1.svg",
-    fill: "currentColor",
-    style: { height: 38 },
-  },
-  {
-    alt: "P&G",
-    src: "src/assets/p&g.svg",
-    style: { height: 38 },
-  },
-  {
-    alt: "KPIT",
-    src: "src/assets/zwsite.svg",
-    style: { height: 38 },
-  },
+  { alt: "FAB", src: fab2, style: { height: 38 } },
+  { alt: "PIXEL", src: pixel, style: { height: 38 } },
+  { alt: "TATA", src: tata, style: { height: 38 } },
+  { alt: "BMW", src: bmw, style: { height: 40 } },
+  { alt: "SONY", src: sony, style: { height: 38 } },
+  { alt: "P&G", src: pg, style: { height: 38 } },
+  { alt: "ZWSITE", src: zwsite, style: { height: 38 } },
 ];
 
 export default function HeroSection() {
